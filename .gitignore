@@ -1,0 +1,2 @@
+# the types of files that git will not track
+.DS_Store
